@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SachithKumar0628/SachithKumar0628/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/SachithKumar0628/SachithKumar0628/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
